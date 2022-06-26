@@ -9,4 +9,4 @@ Water-soil interaction and lubrication are not considered.
 # Further details
 Contact wangcheng.zhang@durham.ac.uk
 # License
-GNU-3.0
+GPL-3.0
