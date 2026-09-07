@@ -4,7 +4,7 @@ import numpy as np
 import math
 import sys
 from Geometry import *
-#------------------nodal point initiation------------
+#------------------nodal points initiation------------
 x_N=np.linspace(-Length/2, Length/2, Nx,dtype='float32')
 y_N=np.linspace(-Width*2.0/3.0, Width/3.0, Ny,dtype='float32')
 X_N,Y_N=np.meshgrid(x_N, y_N) 
