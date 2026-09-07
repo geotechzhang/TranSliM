@@ -1,5 +1,5 @@
 # Coded by Wangcheng Zhang on 29/04/21 for Eulerian depth-averaged MPM progressive landslide failure - staggerd meshes
-# ========import lines==========
+# ========import line==========
 import numpy as np
 import math
 import sys
